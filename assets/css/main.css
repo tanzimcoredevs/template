@@ -10746,7 +10746,12 @@ img {
 
 .card-options a:not(.btn):hover {
     text-decoration: none;
-    color: #7f5539
+    color: #ffffff
+}
+
+.card-options i:not(.btn):hover {
+    text-decoration: none;
+    color: #000000
 }
 
 .card-options .dropdown-toggle:after {
@@ -10765,9 +10770,7 @@ img {
     content: '\e92d'
 }
 
-.card-fullscreen .card-options-fullscreen i:before {
-    content: '\e992'
-}
+
 
 .card-fullscreen .card-options-remove {
     display: none
