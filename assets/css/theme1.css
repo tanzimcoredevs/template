@@ -16,6 +16,10 @@ a:hover{
     color: #a44200 
 }
 
+.table-responsive i {
+    color:#7f5539;
+}
+
 .text-green,
 .text-info,
 .text-success,
