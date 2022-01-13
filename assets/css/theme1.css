@@ -14,13 +14,10 @@ a, .btn-link {
 
 a:hover{
     color: #a44200 
-<<<<<<< HEAD
-=======
 }
 
 .table-responsive i {
     color:#7f5539;
->>>>>>> e496ec1bab8224b42e6371a3ef35b1da8c5787e5
 }
 
 .text-green,
@@ -47,17 +44,12 @@ a:hover{
     background-color: #ede0d4
 }
 .btn-add {
-<<<<<<< HEAD
     background: #9c6644 ;
     color: #fff; 
 }
 .btn-add:hover {
     background: #7f5539 ;
     color: #fff ;
-}
-=======
-    background: #9c6644;
-    color: #fff; 
 }
 .btn-add:hover {
     background: #7f5539;
@@ -80,8 +72,6 @@ a:hover{
     background: #d15b2cce;
     color: #fff ;
 }
-
->>>>>>> e496ec1bab8224b42e6371a3ef35b1da8c5787e5
 .btn-primary {
     background: #1A5089;
     color: #fff;
@@ -374,11 +364,8 @@ body {
 }
 
 .card .card-options a {
-<<<<<<< HEAD
     color: #9c6644
-=======
-    color: #000000
->>>>>>> e496ec1bab8224b42e6371a3ef35b1da8c5787e5
+    /* color: #000000 */
 }
 
 .card .card-options a.btn {

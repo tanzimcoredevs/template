@@ -10746,16 +10746,13 @@ img {
 
 .card-options a:not(.btn):hover {
     text-decoration: none;
-<<<<<<< HEAD
     color: #ffffff
 }
 
 .card-options i:not(.btn):hover {
     text-decoration: none;
-    color: #000000
-=======
-    color: #7f5539
->>>>>>> e496ec1bab8224b42e6371a3ef35b1da8c5787e5
+    color: #5f5f5f
+
 }
 
 .card-options .dropdown-toggle:after {
@@ -10801,7 +10798,30 @@ img {
 .card-tabs-bottom .card-tabs-item.active {
     border-top-color: #fff
 }
+#Company_Settings div{
+    margin-top: 5px;
+}
+#Localization div {
+    margin-top: 5px;
+}
 
+#Roles_Permissions div {
+    margin-top: 5px;
+}
+#Email_Settings div {
+    margin-top: 5px;
+}
+
+
+#Invoice_Settings div {
+    margin-top: 5px;
+}
+#Notifications div {
+    margin-top: 5px;
+}
+#Change_Password div {
+    margin-top: 7px;
+}
 .card-tabs-item {
     display: block;
     vertical-align: middle;
