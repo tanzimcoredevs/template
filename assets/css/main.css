@@ -8666,7 +8666,7 @@ a:hover {
     justify-content: space-between;
     padding: 10px 0;
     align-items: center;
-    border-bottom: 1px solid #E8E9E9
+    /* border-bottom: 1px solid #E8E9E9 */
 }
 
 .page-header .left {
@@ -9425,7 +9425,7 @@ a:hover {
     transition: all 0.3s ease-in-out;
     width: 280px;
     background-color: #fff;
-    border-right: 1px solid #E6E9ED;
+    /* border-right: 1px solid #E6E9ED; */
     left: 0;
     overflow-y: auto;
     position: fixed;
@@ -10737,7 +10737,7 @@ img {
 
 .card-options a:not(.btn):hover {
     text-decoration: none;
-    color: #fff
+    color: #ffffff
 }
 
 .card-options .dropdown-toggle:after {
