@@ -6621,6 +6621,13 @@
 .setting-list li {
     margin-bottom: 10px
 }
+.card-bottom{
+    margin-bottom: 0;
+}
+/* .card{
+    padding-bottom: 10px;
+} */
+
 
 .ml-15,
 .card-options>a,
@@ -10056,22 +10063,24 @@ img {
 
 .nav-tabs .nav-link {
     transition: .3s border-color;
-    font-weight: 400;
+    font-weight: 500;
     border: 0;
     color: inherit;
     border-bottom: 3px solid transparent;
     margin-bottom: -1px;
-    padding: 1rem 0
+    padding: 1rem 0;
+    color:#9c6644
 }
 
 .nav-tabs .nav-link:hover:not(.disabled) {
-    border-color: #6e7687;
-    color: #6e7687
+    border-color:#a44200 ;
+    color: #a44200 
 }
 
 .nav-tabs .nav-link.active {
-    border-color: #2185d0;
-    color: #2185d0;
+    font-weight: 700;
+    border-color: #7f5539;
+    color: #7f5539;
     background: transparent
 }
 
@@ -10901,11 +10910,15 @@ a.card-tabs-item.active {
     color :#000
 }
 .dropdown-menu .dropdown-item {
-    color: #333537;
+    color: #333734;
     font-size: 14px;
     padding: 10px 10px 10px 20px;
     /* margin: 0 10px; */
     width: auto
+}
+
+.dropdown-icon a{ 
+    color: #000;
 }
 
 .dropdown-menu .dropdown-item:hover,
@@ -17581,7 +17594,7 @@ svg {
 
 .dark-mode .header .dropdown-menu .dropdown-item:hover,
 .dark-mode .header .dropdown-menu .dropdown-item.active {
-    color: #283041
+    color: #fff
 }
 
 .dark-mode .card {
