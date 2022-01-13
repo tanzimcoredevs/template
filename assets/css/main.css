@@ -9617,7 +9617,7 @@ a:hover {
 .top_dark .custom-select {
     background-color: rgba(255, 255, 255, 0.1);
     border: 0;
-    color: #808488 !important
+    color: #e6ccb2 !important
 }
 
 .top_dark .page-header {
@@ -10276,16 +10276,16 @@ img {
 }
 
 .table.table_custom.border-style tr:hover td {
-    border-top-color: #2185d0;
-    border-bottom-color: #2185d0
+    border-top-color: #9c6644;
+    border-bottom-color: #9c6644
 }
 
 .table.table_custom.border-style tr:hover td:first-child {
-    border-left-color: #2185d0
+    border-left-color: #9c6644
 }
 
 .table.table_custom.border-style tr:hover td:last-child {
-    border-right-color: #2185d0
+    border-right-color: #9c6644
 }
 
 .table.table_custom thead tr {
@@ -10746,12 +10746,16 @@ img {
 
 .card-options a:not(.btn):hover {
     text-decoration: none;
+<<<<<<< HEAD
     color: #ffffff
 }
 
 .card-options i:not(.btn):hover {
     text-decoration: none;
     color: #000000
+=======
+    color: #7f5539
+>>>>>>> e496ec1bab8224b42e6371a3ef35b1da8c5787e5
 }
 
 .card-options .dropdown-toggle:after {

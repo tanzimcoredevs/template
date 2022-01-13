@@ -14,6 +14,13 @@ a, .btn-link {
 
 a:hover{
     color: #a44200 
+<<<<<<< HEAD
+=======
+}
+
+.table-responsive i {
+    color:#7f5539;
+>>>>>>> e496ec1bab8224b42e6371a3ef35b1da8c5787e5
 }
 
 .text-green,
@@ -40,6 +47,7 @@ a:hover{
     background-color: #ede0d4
 }
 .btn-add {
+<<<<<<< HEAD
     background: #9c6644 ;
     color: #fff; 
 }
@@ -47,6 +55,33 @@ a:hover{
     background: #7f5539 ;
     color: #fff ;
 }
+=======
+    background: #9c6644;
+    color: #fff; 
+}
+.btn-add:hover {
+    background: #7f5539;
+    color: #fff ;
+}
+
+.btn-cancel {
+    background: #c44536;
+    color: #fff; 
+}
+.btn-cancel:hover {
+    background: #c8543dfa;
+    color: #fff ;
+}
+.btn-submit {
+    background: #c45022d2;
+    color: #fff; 
+}
+.btn-submit:hover {
+    background: #d15b2cce;
+    color: #fff ;
+}
+
+>>>>>>> e496ec1bab8224b42e6371a3ef35b1da8c5787e5
 .btn-primary {
     background: #1A5089;
     color: #fff;
@@ -339,7 +374,11 @@ body {
 }
 
 .card .card-options a {
+<<<<<<< HEAD
     color: #9c6644
+=======
+    color: #000000
+>>>>>>> e496ec1bab8224b42e6371a3ef35b1da8c5787e5
 }
 
 .card .card-options a.btn {
