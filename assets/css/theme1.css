@@ -44,13 +44,31 @@ a:hover{
     background-color: #ede0d4
 }
 .btn-add {
-    background: #9c6644 ;
+    background: #9c6644;
     color: #fff; 
 }
 .btn-add:hover {
-    background: #7f5539 ;
+    background: #7f5539;
     color: #fff ;
 }
+
+.btn-cancel {
+    background: #c44536;
+    color: #fff; 
+}
+.btn-cancel:hover {
+    background: #c8543dfa;
+    color: #fff ;
+}
+.btn-submit {
+    background: #c45022d2;
+    color: #fff; 
+}
+.btn-submit:hover {
+    background: #d15b2cce;
+    color: #fff ;
+}
+
 .btn-primary {
     background: #1A5089;
     color: #fff;
