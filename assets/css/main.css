@@ -8007,7 +8007,12 @@ body.rtl .ml-auto {
 body.rtl .float-right {
     float: left !important
 }
-
+.float-right{
+    float: right;
+}
+#user_option .float-right {
+    float: left;
+}
 body.rtl .text-right {
     text-align: left !important
 }
@@ -10746,7 +10751,7 @@ img {
 
 .card-options a:not(.btn):hover {
     text-decoration: none;
-    color: #ffffff
+    color: #6c2b2b;
 }
 
 .card-options i:not(.btn):hover {
@@ -10798,28 +10803,25 @@ img {
 .card-tabs-bottom .card-tabs-item.active {
     border-top-color: #fff
 }
-#Company_Settings div{
+#Company_Settings .card-body div{
     margin-top: 5px;
 }
-#Localization div {
+#Localization .card-body div {
     margin-top: 5px;
 }
-
-#Roles_Permissions div {
+#Roles_Permissions .card-body div {
     margin-top: 5px;
 }
-#Email_Settings div {
+#Email_Settings .card-body div {
     margin-top: 5px;
 }
-
-
-#Invoice_Settings div {
+#Invoice_Settings .card-body div {
     margin-top: 5px;
 }
-#Notifications div {
+#Notifications .card-body div {
     margin-top: 5px;
 }
-#Change_Password div {
+#Change_Password .card-body div {
     margin-top: 7px;
 }
 .card-tabs-item {
@@ -17919,4 +17921,8 @@ a {
 
 .page-title {
     padding-left: 15px;
+}
+
+#addnew .card-body div {
+    margin-top: 5px;
 }
