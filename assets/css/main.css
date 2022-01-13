@@ -8629,7 +8629,7 @@ a:hover {
 }
 
 .page .section-body {
-    background: #ede0d4
+    background: #ede0d4;
 }
 
 .section-body {
@@ -10056,22 +10056,24 @@ img {
 
 .nav-tabs .nav-link {
     transition: .3s border-color;
-    font-weight: 400;
+    font-weight: 500;
     border: 0;
     color: inherit;
     border-bottom: 3px solid transparent;
     margin-bottom: -1px;
-    padding: 1rem 0
+    padding: 1rem 0;
+    color:#9c6644
 }
 
 .nav-tabs .nav-link:hover:not(.disabled) {
-    border-color: #6e7687;
-    color: #6e7687
+    border-color:#a44200 ;
+    color: #a44200 
 }
 
 .nav-tabs .nav-link.active {
-    border-color: #2185d0;
-    color: #2185d0;
+    font-weight: 700;
+    border-color: #7f5539;
+    color: #7f5539;
     background: transparent
 }
 
@@ -10737,7 +10739,7 @@ img {
 
 .card-options a:not(.btn):hover {
     text-decoration: none;
-    color: #ffffff
+    color: #7f5539
 }
 
 .card-options .dropdown-toggle:after {

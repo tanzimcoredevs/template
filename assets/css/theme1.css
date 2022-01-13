@@ -3,9 +3,17 @@
     background: #E74C3C
 }
 
-a,
-.btn-link {
+a, .btn-link {
+    font-weight: 500;
     color: #9c6644
+ 
+}
+.btn-link:hover {
+    color: #a44200 
+}
+
+a:hover{
+    color: #a44200 
 }
 
 .text-green,
@@ -31,7 +39,14 @@ a,
 .badge-primary {
     background-color: #ede0d4
 }
-
+.btn-add {
+    background: #9c6644 ;
+    color: #fff; 
+}
+.btn-add:hover {
+    background: #7f5539 ;
+    color: #fff ;
+}
 .btn-primary {
     background: #1A5089;
     color: #fff;
@@ -44,8 +59,8 @@ a,
 }
 
 .nav-tabs .nav-link.active {
-    border-color: #E74C3C;
-    color: #E74C3C
+    border-color: #7f5539;
+    color: #7f5539
 }
 
 .form-control:focus {
