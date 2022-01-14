@@ -10803,9 +10803,10 @@ img {
 .card-tabs-bottom .card-tabs-item.active {
     border-top-color: #fff
 }
-#Company_Settings .card-body div{
-    margin-top: 5px;
+#Company_Settings .card-body .form-group{
+    padding-top: 10px;
 }
+
 #Localization .card-body div {
     margin-top: 5px;
 }
@@ -10845,6 +10846,8 @@ a.card-tabs-item:hover {
     text-decoration: none;
     color: inherit
 }
+
+
 
 a.card-tabs-item:focus {
     z-index: 1
